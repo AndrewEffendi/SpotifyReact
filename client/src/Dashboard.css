@@ -1,0 +1,16 @@
+.dashboard {
+  height: 100vh;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.dashboard > search {
+  overflow-y: "auto";
+}
+
+.lyrics {
+  color: rgb(30, 32, 32);
+  white-space: pre;
+}
+.formControl {
+  margin-left: 30px;
+}
